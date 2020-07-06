@@ -7,7 +7,7 @@
 The three boroughs of London that has seen the greatest increase in housing prices, on average, over the last two decades are Hackney with 6.2 times more than their 1998 values, Waltham Forest with 5.8 times more than their 1998 values, and Southwark with 5.5 times more than their 1998 values. On average the boroughs increased by a factor of 4.7 +/- 0.57 times more than their 1998 values. 
 The most expensive boroughs are Kensington & Chelsea being first, then Westminster, then Camden. 
 
-![map_export.png](attachment:map_export.png)
+![](./map_export.png)
 
 By mapping out the increase in housing prices, we can see that the central London area has had the largest increase. The surrounding boroughs of London all increased by 4-5 times their original 1998 price. I also noticed that the North increased slightly higher than the south and the west increased slightly higher than the east.
 
